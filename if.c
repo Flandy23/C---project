@@ -2,6 +2,7 @@
 
 int main()
 {
+	printf("Шрек!\n");
 	int valore;
 	printf("Inserisci un valore: ");
 	scanf("%d", &valore);
